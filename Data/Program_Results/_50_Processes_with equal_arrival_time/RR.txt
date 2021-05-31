@@ -1,0 +1,9 @@
+
+ After Round Robin algorithm sheduling: 
+
+ Average turnaround time: 
+285.12
+ Average waiting time: 
+276.2
+ Standard deviation is: 
+120.93965437357592

@@ -1,0 +1,9 @@
+
+ After Last Come First Served algorithm sheduling: 
+
+ Average turnaround time: 
+236.94
+ Average waiting time: 
+228.02
+ Standard deviation is: 
+129.06873982494756

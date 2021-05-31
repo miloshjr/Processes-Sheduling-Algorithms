@@ -1,0 +1,9 @@
+
+ After Shortest Job First algorithm sheduling: 
+
+ Average turnaround time: 
+150.08
+ Average waiting time: 
+141.16
+ Standard deviation is: 
+123.98683155883938
